@@ -1,0 +1,12 @@
+a {
+    background-color: #cfe3e6;
+}
+
+.navigation {
+    margin-bottom: 10%;
+    block-size: auto;
+    font-weight: 100;
+    font-size: large;
+    color: rgb(144, 196, 2);
+    background-color: rgb(235, 235, 235);
+}
